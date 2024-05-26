@@ -1,4 +1,4 @@
-const arr = [3,7,2,4,9,10,1,6,12,30]
+const arr = [3,7,2,4,9,10,1,6,12,15]
 arr.sort((a,v)=>a-v)
 let i = 0
 let tempArray = []
